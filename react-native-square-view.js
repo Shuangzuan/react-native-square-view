@@ -20,7 +20,7 @@ var SquareView = React.createClass({
         {...this.props}
         style={
           [this.props.style,
-          {width: this.state.width, height: this.state.height, backgroundColor: 'red'}]
+          {width: this.state.width, height: this.state.height}]
         }
         onLayout={event => {
           var {width, height} = event.nativeEvent.layout;
