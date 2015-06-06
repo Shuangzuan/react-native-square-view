@@ -1,0 +1,26 @@
+{
+  "name": "react-native-square-view",
+  "version": "0.0.1",
+  "description": "A square view component for react native.",
+  "main": "react-native-square-view.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shuangzuan/react-native-square-view.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "square",
+    "view"
+  ],
+  "author": "Shuangzuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shuangzuan/react-native-square-view/issues"
+  },
+  "homepage": "https://github.com/Shuangzuan/react-native-square-view"
+}
