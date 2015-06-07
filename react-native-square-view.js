@@ -38,7 +38,7 @@ var SquareView = React.createClass({
 
     switch (this.state.direction) {
       case 'column': return square;
-      case 'row': return (<View>{square}</View>);
+      case 'row': return (<View style={{backgroundColor: 'transparent'}}>{square}</View>);
       default: return null;
     }
   }
